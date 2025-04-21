@@ -1,0 +1,8 @@
+{
+    "git":{
+        "development":{
+            "main": false,
+            "production": false
+        }
+    }
+}
